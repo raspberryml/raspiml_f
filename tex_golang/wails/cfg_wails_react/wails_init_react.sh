@@ -1,0 +1,1 @@
+wails init -n "wails_react_hello" -t https://github.com/LGiki/wails-template-nextjs
